@@ -1,5 +1,5 @@
 ---
-title: 'Những món đồ cần mua của Tiếp'
+title: 'Những món ngon Phú Quốc'
 layout: HomePage
 path: '/'
 meta: Những món đồ cần mua của Tiếp, trang cá nhân tổng hợp đồ cần mua

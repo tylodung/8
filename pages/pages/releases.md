@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục món đồ nên mua'
+title: 'Những món Chưa Ăn'
 layout: Releases
 path: '/releases/'
-meta: Danh mục món đồ nên mua
-keywords: Danh mục món đồ nên mua
+meta: Những món Chưa Ăn
+keywords: Những món Chưa Ăn
 ---
